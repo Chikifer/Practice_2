@@ -97,4 +97,8 @@ Screenshot the image of the complete schematic and upload it at the repository.
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+In this practice, after developing a schematic design in KiCad, I learned how to develop a PCB with its components. I remember, when I searching a 
+little bit about the program, that you could manufacture a board, and thanks to this exercise, I finally knew how. First, I have to add the components, 
+which, in this case, it was simplified to a couple of modules, in which I could the components I needed for the design. Then, I exported it and had to 
+rearrange it however I would like, but I prefered to stick to the one in the description. I had a few issues with the connections, but, in the end, I finished 
+it with a great design.
